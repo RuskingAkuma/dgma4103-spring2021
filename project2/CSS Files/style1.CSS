@@ -1,6 +1,1 @@
-Body{
-  text-align: center;
-  font-family: Arial;
-  background-color: #66ffbf;
-  
-}
+img.center{display: block; margin-left: auto; margin-right: auto; width: 75%;}
