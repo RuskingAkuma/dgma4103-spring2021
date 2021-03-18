@@ -1,20 +1,6 @@
 Body{
-  Text-align:center;
-  Font-family:tahoma;
-  Background-color:#b3ccff;
-}
-Nav{background-color:#aa80ff; Border-style:double; border-color:black;}
-a{ color:#1a66ff;}
-h1{ color:#1a66ff;}
-h2{ color:#1a66ff;}
-h3{ color:#1a66ff;}
-h4{ color:#1a66ff;}
-h5{ color:#1a66ff;}
-h6{ color:#1a66ff;}
-img{border:Solid #aa80ff 4px;}
-Footer{ text-align:center;
-background-color:#aa80ff;
-Color:#1a66ff;
-Border-style:double;
-border-color:black;
+  text-align: center;
+  font-family: Arial;
+  background-color: #66ffbf;
+  
 }
